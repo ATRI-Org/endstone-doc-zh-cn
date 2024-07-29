@@ -194,18 +194,18 @@ markdown_extensions:
   - pymdownx.tilde
 
 nav:
-  - Home: index.md
-  - Getting Started:
-      - Installation: getting-started/installation.md
-      - Start your server: getting-started/start-your-server.md
-  - Tutorials:
-      - Create your first plugin: tutorials/create-your-first-plugin.md
-      - Install your plugin: tutorials/install-your-plugin.md
-      - Use color codes: tutorials/use-color-codes.md
-      - Register commands: tutorials/register-commands.md
-      - Register event listeners: tutorials/register-event-listeners.md
-      - Schedule tasks: tutorials/schedule-tasks.md
-      - Publish your plugin: tutorials/publish-your-plugin.md
+  - Home(主页): index.md
+  - Getting Started(开始):
+      - Installation(安装): getting-started/installation.md
+      - Start your server(启动服务器): getting-started/start-your-server.md
+  - Tutorials(教程):
+      - Create your first plugin(创建你的第一个插件): tutorials/create-your-first-plugin.md
+      - Install your plugin(安装你的插件): tutorials/install-your-plugin.md
+      - Use color codes(使用彩色代码): tutorials/use-color-codes.md
+      - Register commands(注册你的命令): tutorials/register-commands.md
+      - Register event listeners(注册事件): tutorials/register-event-listeners.md
+      - Schedule tasks(Schedule 任务): tutorials/schedule-tasks.md
+      - Publish your plugin(发布你的插件): tutorials/publish-your-plugin.md
 
   - Reference:
       - reference/index.md

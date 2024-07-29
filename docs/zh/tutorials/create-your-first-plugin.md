@@ -3,69 +3,64 @@ comments: true
 toc_depth: 2
 ---
 
-# Create your first plugin
+# 创建你的插件
 
-## Prerequisites
+## IDE安装
 
 === ":fontawesome-brands-python: Python"
 
-    To develop your first plugin with the Python API, you will have to install the following prerequisites:
+    要使用 Python API 开发第一个插件，您需要满足以下条件:
     
-    -   [JetBrains PyCharm]
+    -   [JetBrains PyCharm 或者 Microsoft Visual Studio带有python负载]
     -   [Python] (>= 3.9)
     -   [endstone Python package]
 
 === ":simple-cplusplus: C++"
 
-    To develop your first plugin with the C++ API, you will have to install the following prerequisites:
+    要使用 Python API 开发第一个插件，您需要满足以下条件:
 
-    -   [JetBrains CLion]
+    -   [JetBrains CLion 或者 Microsoft Visual Studio带有CMake负载]
     -   [CMake] (>= 3.15)
     -   C++ Compiler
         -   **:fontawesome-brands-windows: Windows**: [Visual Studio] 2017 or newer
         -   **:fontawesome-brands-linux: Linux**: [LLVM Toolchain] 5 or newer with Clang and libc++
 
-## Create a new project
+## 创建一个新项目
 
 === ":fontawesome-brands-python: Python"
 
-    When you start up PyCharm, you will see this welcome screen:
+    当你打开PyCharm你可以看见欢迎界面:
 
-    ![Welcome to PyCharm](screenshots/pycharm-welcome.png)
+    ![PyCharm欢迎界面](screenshots/pycharm-welcome.png)
 
-    Click on **New Project**
+    点击 **New Project(新建项目)**
 
-    ![New PyCharm Project](screenshots/pycharm-create-project.png)
+    ![新建PyCharm项目](screenshots/pycharm-create-project.png)
 
-    Let's say you want to name your plugin **MyPlugin**. In Endstone plugin development, we follow the following 
-    naming convention:
+    为你的插件取名为 **MyPlugin**.在EndStone的开发中, 我们必须遵守以下的命名规范:
 
-    1. Use `lower-case-with-dash` for project name
-    2. Prefix your project name with `endstone-`
+    1. 项目名称使用带破折号的小写字母
+    2. 以 “endstone-”作为项目名称的前缀
 
-    Hence, you should put `endstone-my-plugin` in the **Name** field.
+    因此,应在 **Name** 字段中输入 `endstone-my-plugin` 的名称.(不这样写也拦不了你(雾
 
-    Then, in the **Interpreter type**, select **Custom environment**. Select **Select existing**, and set the path to 
-    where you previously installed `endstone` as stated in the prerequisites.
+    然后在 **Interpreter type**,选项中选择**Custom environment**. 选择 **Select existing**, 并将路径设置为 
+    你先前安装 “endstone ”的位置,如前面条件中所述.
+    最后点击 **Create**. PyCharm 工作区将展示出以下内容.
 
-    Finally, click on **Create**. The PyCharm workspace will pop up and you will see this.
+    ![PyCharm 工作区](screenshots/pycharm-workspace.png)
 
-    ![PyCharm Workspace](screenshots/pycharm-workspace.png)
+    !!! 提示
+        EndStone需要Python安装到一个环境中.强烈建议安装一个虚拟环境?!(原句是A virtual environment is strongly recommanded.)
 
-    !!! tip
-        Endstone server requires its plugins to be installed in the same Python environment. A virtual environment is
-        **strongly recommanded**.
+    ### 检查你的依赖
 
-    ### Check your dependencies
-
-    In the last step, you selected the existing interpreter where `endstone` package is installed. For now, that's the
-    only dependency we need for a simple plugin. To check its installation, click on the :octicons-terminal-16: icon on
-    the side bar to open the terminal and type:
+    最后一步, 你需要选择`endstone` 包在你安装的地方. 现在,这是我们只需要一个简单插件的依赖项. 检查其安装情况, 点击 :octicons-terminal-16: 图标:
     ```
     pip show endstone
     ```
 
-    You show see something like this:
+   你将会看到像这样的东西:
     ```
     Name: endstone
     Version: 0.4.2
@@ -76,7 +71,7 @@ toc_depth: 2
     License: Apache License
     ```
 
-    ### Create `pyproject.toml`
+    ### 创建 `pyproject.toml`
 
     Modern Python packages can contain a `pyproject.toml` file, first introduced in [PEP 518]. This file contains build 
     system requirements and information, which are used by pip to build the package.

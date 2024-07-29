@@ -2,16 +2,15 @@
 comments: true
 ---
 
-# Start your server
+# 开启你的服务器
 
-After you've [installed] Endstone, you can bootstrap your server using the `endstone` executable. Go to the directory
-where you want your server to be located and enter:
+在你已经 [安装] 完Endstone后, 你可以启动你的服务器通过 `endstone` 的命令. 进入目录,在你所想创建服务器的目录输入
 
 ```
 endstone
 ```
 
-Alternatively, if you're running Endstone from within Docker, use:
+或者, 如果你在docker中运行endstone, 用以下命令:
 
 === ":fontawesome-brands-linux: Linux / :fontawesome-brands-windows: Powershell"
 
@@ -25,15 +24,14 @@ Alternatively, if you're running Endstone from within Docker, use:
     docker run --rm -it -v "%cd%":/home/endstone -p 19132:19132/udp endstone/endstone
     ```
 
-You should see this in your console:
+你将能在控制台中看见以下画面:
 
-![Start your server](start-your-server.png)
+![开启服务器](start-your-server.png)
 
-!!! tip
-    The first time you run the bootstrap, it will need to download the [Bedrock Dedicated Server] from the official
-    mirror. Press ++y++ and ++enter++ to continue.
+!!! 提示
+    在首次开启 [BDS] 你需要在官网下载BDS.
 
 
-[installed]: installation.md
+[安装]: installation.md
 
-[Bedrock Dedicated Server]: https://www.minecraft.net/en-us/download/server/bedrock
+[BDS]: https://www.minecraft.net/en-us/download/server/bedrock

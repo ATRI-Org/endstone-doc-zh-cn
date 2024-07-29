@@ -2,28 +2,27 @@
 comments: true
 ---
 
-# Getting started
+# 开始
 
-Endstone offers a powerful plugin API for Bedrock Dedicated Servers, the official server software for Minecraft: Bedrock
-Edition. If you're familiar with Python, you can install Endstone with [`pip`](#with-pip), the Python package manager. If not,
-we recommend using [`docker`](#with-docker).
+Endstone为Bedrock Dedicated Servers(官方服务器软件)提供了一个强大的插件API.如果你熟悉Python, 你可以使用 [`pip`](#使用pip安装) 来安装EndStone. 相反,
+你可以使用 [`docker`](#使用docker).
 
-## Installation
+## 安装
 
-### Environment <small>optional</small> { #environment data-toc-label="Environment" }
+### 环境 <small>optional</small> { #环境 data-toc-label="环境" }
 
-We recommend using a [virtual environment], which is an isolated Python runtime.
-If you are in a virtual environment, any packages that you install or upgrade
-will be local to the environment. If you run into problems, you can
-just delete and recreate the environment. It's trivial to set up:
+我们建议你安装 [虚拟环境].
+如果您在虚拟环境中,您安装或升级的任何包
+将是当地的环境.如果你遇到问题,你可以
+只需删除并重新创建环境.建立起来很简单:
 
--   Create a new virtual environment with:
+-   使用该命令创建一个虚拟环境:
 
     ```
     python3 -m venv venv
     ```
 
--   Activate the environment with:
+-   使用以下命令激活环境:
 
     === ":fontawesome-brands-windows: Windows"
 
@@ -38,19 +37,18 @@ just delete and recreate the environment. It's trivial to set up:
         ```
 
 
-    Your terminal should now print `(venv)` before the prompt, which is how you
-    know that you are inside the virtual environment that you just created.
+    你的终端应该在启动之前打印 `(venv)`.
 
--   Exit the environment with:
+-   使用以下命令退出环境:
 
     ```
     deactivate
     ```
 
-### with pip <small>recommended</small> { #with-pip data-toc-label="with pip" }
+### 使用pip安装 <small>recommended</small> { #使用pip安装 data-toc-label="使用pip安装" }
 
-Endstone is published as a [Python package] and can be installed with `pip`, ideally by using the [virtual environment](#environment) 
-from the last step. Open up a terminal and install Endstone with:
+Endstone被发布成了一个 [Python package] 而且可以用 `pip`安装, 在[虚拟环境](#environment) 
+安装则需要最后一步.打开终端执行以下命令来安装:
 
 === "Latest"
 
@@ -58,10 +56,9 @@ from the last step. Open up a terminal and install Endstone with:
     pip install endstone
     ```
 
-### with docker
+### 使用docker
 
-The official [Docker image] is a great way to get the Endstone server up and running in a few
-minutes. Open up a terminal and pull the image with:
+官方的 [Docker image] 是一个很好的方式来安装和使用EndStone. 使用以下命令拉取docker镜像(国内请自备魔法或者镜像:
 
 === "Latest"
 
@@ -71,6 +68,6 @@ minutes. Open up a terminal and pull the image with:
 
 [Python package]: https://pypi.org/project/endstone/
 
-[virtual environment]: https://realpython.com/what-is-pip/#using-pip-in-a-python-virtual-environment
+[虚拟环境]: https://realpython.com/what-is-pip/#using-pip-in-a-python-virtual-environment
 
 [Docker image]: https://hub.docker.com/r/endstone/endstone/

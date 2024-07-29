@@ -1,27 +1,27 @@
 ![endstone](https://socialify.git.ci/endstonemc/endstone/image?description=1&font=Jost&forks=1&issues=1&logo=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fminecraft_gamepedia%2Fimages%2F4%2F43%2FEnd_Stone_JE3_BE2.png&name=1&owner=1&pulls=1&stargazers=1&theme=Light#only-light)
 ![endstone](https://socialify.git.ci/endstonemc/endstone/image?description=1&font=Jost&forks=1&issues=1&logo=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fminecraft_gamepedia%2Fimages%2F4%2F43%2FEnd_Stone_JE3_BE2.png&name=1&owner=1&pulls=1&stargazers=1&theme=Dark#only-dark)
 
-Write you plugins in Python or C++ and enhance the Bedrock Dedicated Servers in minutes - add custom features and
-functionality, design innovative and bespoke player experiences.
+用 Python 或 C++ 编写插件，在几分钟内为 BDS 编写插件 - 添加自定义特性和
+功能，设计创新的定制玩家体验.
 
-## 🚀 Ready to Start?
+## 🚀 开始
 
 <div class="grid cards" markdown>
 
--   **Install Endstone server**
+-   **安装EndStone BDS Server**
   
     ---
   
-    Follow the comprehensive guide to install and configure your Endstone server.
+    请按照综合指南安装和配置 Endstone BDS Server。
   
-    [**:octicons-arrow-right-24: Getting Started**](getting-started/installation.md)
+    [**:octicons-arrow-right-24: 开始**](getting-started/installation.md)
   
--   **Write your first plugin**
+-   **编写你的第一个插件**
   
     ---
   
-    Our step-by-step tutorial takes you from zero to hero as you create your first plugin.
+    我们的一步一步带领你从零开始创建第一个插件。
   
-    [**:octicons-arrow-right-24: Tutorials**](tutorials/create-your-first-plugin.md)
+    [**:octicons-arrow-right-24: 教程**](tutorials/create-your-first-plugin.md)
 
 </div>

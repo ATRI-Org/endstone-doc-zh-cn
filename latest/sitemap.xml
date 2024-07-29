@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://endstone.dev/latest/changelog/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latest/changelog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latesten/changelog/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/reference/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latest/reference/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latesten/reference/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/reference/python/actor/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latest/reference/python/actor/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latesten/reference/python/actor/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/reference/python/command/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latest/reference/python/command/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latesten/reference/python/command/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/reference/python/event/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latest/reference/python/event/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latesten/reference/python/event/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/reference/python/form/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latest/reference/python/form/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latesten/reference/python/form/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/reference/python/inventory/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latest/reference/python/inventory/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latesten/reference/python/inventory/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/reference/python/level/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latest/reference/python/level/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latesten/reference/python/level/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/reference/python/misc/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latest/reference/python/misc/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latesten/reference/python/misc/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/reference/python/permissions/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latest/reference/python/permissions/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latesten/reference/python/permissions/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/reference/python/player/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latest/reference/python/player/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latesten/reference/python/player/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/reference/python/plugin/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latest/reference/python/plugin/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latesten/reference/python/plugin/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/reference/python/scheduler/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latest/reference/python/scheduler/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latesten/reference/python/scheduler/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/reference/python/scoreboard/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latest/reference/python/scoreboard/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latesten/reference/python/scoreboard/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/reference/python/server/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latest/reference/python/server/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latesten/reference/python/server/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latest/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latesten/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/getting-started/installation/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latest/getting-started/installation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latesten/getting-started/installation/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/getting-started/start-your-server/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latest/getting-started/start-your-server/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latesten/getting-started/start-your-server/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/tutorials/create-your-first-plugin/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latest/tutorials/create-your-first-plugin/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latesten/tutorials/create-your-first-plugin/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/tutorials/install-your-plugin/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latest/tutorials/install-your-plugin/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latesten/tutorials/install-your-plugin/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/tutorials/publish-your-plugin/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latest/tutorials/publish-your-plugin/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latesten/tutorials/publish-your-plugin/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/tutorials/register-commands/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latest/tutorials/register-commands/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latesten/tutorials/register-commands/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/tutorials/register-event-listeners/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latest/tutorials/register-event-listeners/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latesten/tutorials/register-event-listeners/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/tutorials/schedule-tasks/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latest/tutorials/schedule-tasks/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latesten/tutorials/schedule-tasks/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/tutorials/use-color-codes/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latest/tutorials/use-color-codes/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latesten/tutorials/use-color-codes/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/en/changelog/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latest/en/changelog/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latestchangelog/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/en/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latest/en/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latest"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/en/getting-started/installation/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latest/en/getting-started/installation/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latestgetting-started/installation/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/en/getting-started/start-your-server/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latest/en/getting-started/start-your-server/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latestgetting-started/start-your-server/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/en/tutorials/create-your-first-plugin/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latest/en/tutorials/create-your-first-plugin/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latesttutorials/create-your-first-plugin/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/en/tutorials/install-your-plugin/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latest/en/tutorials/install-your-plugin/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latesttutorials/install-your-plugin/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/en/tutorials/publish-your-plugin/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latest/en/tutorials/publish-your-plugin/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latesttutorials/publish-your-plugin/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/en/tutorials/register-commands/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latest/en/tutorials/register-commands/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latesttutorials/register-commands/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/en/tutorials/register-event-listeners/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latest/en/tutorials/register-event-listeners/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latesttutorials/register-event-listeners/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/en/tutorials/schedule-tasks/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latest/en/tutorials/schedule-tasks/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latesttutorials/schedule-tasks/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/en/tutorials/use-color-codes/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latest/en/tutorials/use-color-codes/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latesttutorials/use-color-codes/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/en/reference/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latest/en/reference/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latestreference/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/en/reference/python/actor/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latest/en/reference/python/actor/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latestreference/python/actor/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/en/reference/python/command/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latest/en/reference/python/command/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latestreference/python/command/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/en/reference/python/event/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latest/en/reference/python/event/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latestreference/python/event/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/en/reference/python/form/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latest/en/reference/python/form/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latestreference/python/form/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/en/reference/python/inventory/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latest/en/reference/python/inventory/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latestreference/python/inventory/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/en/reference/python/level/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latest/en/reference/python/level/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latestreference/python/level/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/en/reference/python/misc/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latest/en/reference/python/misc/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latestreference/python/misc/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/en/reference/python/permissions/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latest/en/reference/python/permissions/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latestreference/python/permissions/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/en/reference/python/player/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latest/en/reference/python/player/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latestreference/python/player/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/en/reference/python/plugin/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latest/en/reference/python/plugin/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latestreference/python/plugin/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/en/reference/python/scheduler/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latest/en/reference/python/scheduler/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latestreference/python/scheduler/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/en/reference/python/scoreboard/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latest/en/reference/python/scoreboard/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latestreference/python/scoreboard/"/>
+    </url>
+    <url>
+        <loc>https://endstone.dev/latest/en/reference/python/server/</loc>
+        <lastmod>2024-07-29</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://endstone.dev/latest/en/reference/python/server/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://endstone.dev/latestreference/python/server/"/>
+    </url>
+</urlset>

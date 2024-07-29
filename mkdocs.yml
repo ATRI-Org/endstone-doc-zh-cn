@@ -9,6 +9,10 @@ edit_uri: edit/main/docs/
 copyright: Copyright &copy; 2023 - 2024 Vincent Wu
 
 extra:
+  i18n:
+    languages:
+      en: 'English'
+      zh: '中文（简体）'
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/EndstoneMC
@@ -25,11 +29,20 @@ extra:
     provider: mike
     default: stable
     alias: true
-
 extra_css:
   - stylesheets/extra.css
 
 plugins:
+  - i18n:
+      docs_structure: folder
+      languages:
+        - locale: zh
+          default: true
+          name: 中文 (简体)
+          build: true
+        - locale: en
+          name: "ENG"
+          build: true
   - search
   - git-revision-date-localized:
       enabled: !ENV [ CI, false ]

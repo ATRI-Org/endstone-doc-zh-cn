@@ -101,7 +101,7 @@ git clone https://github.com/EndstoneMC/endstone.git
 cd endstone
 ``
 
-然后，你就可以构建轮子并安装到本地机器上了：
+然后，你就可以构建wheel并安装到本地机器上了：
 
 ``shell
 pip install .

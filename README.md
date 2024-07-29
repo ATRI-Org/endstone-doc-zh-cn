@@ -33,13 +33,13 @@
 - [🙌 贡献代码](#-贡献代码-)
 - [🎫 License](#-license-)
 
-## 📖 介绍 [🔝](#-目录-)
+## 📖 介绍 [🔝](#-目录)
 
 我们非常高兴地宣布 Endstone 项目的启动。Endstone 为 Bedrock 专用服务器提供插件 API，支持
 Python 和 C++ 语言。这使开发人员能够利用各种特性和功能增强 Bedrock 专用服务器。
 功能。
 
-## 🎯 特征 [🔝](#-目录-)
+## 🎯 特征 [🔝](#-目录)
 
 - **跨平台**: 我们同时支持 Windows 和 Linux 平台,目前,我们是唯一一个原生支持这两个平台的 BDS 服务器软件,无需Wine.
 - **Feature-rich**: All up-to-date Minecraft features are at your fingertips! We make sure to keep Endstone aligned with
@@ -53,7 +53,7 @@ Python 和 C++ 语言。这使开发人员能够利用各种特性和功能增�
   squeeze out
   every bit of performance.
 
-## 🛠️ 开始 [🔝](#-目录-)
+## 🛠️ 开始 [🔝](#-目录)
 
 开始使用前，请确认您使用的是以下兼容操作系统之一：
 
@@ -123,7 +123,7 @@ endstone
 | C/C++ Compiler (Minimum)         | MSVC 191 (Visual Studio 2017) | Clang 5  |
 | Standard Library                 | MSVC STL                      | libc++   |
 
-## 🌟 插件 [🔝](#-目录-)
+## 🌟 插件 [🔝](#-目录)
 
 目前，Endstone 项目正在积极开发中，我们邀请您查看我们的路线图。在您等待期间
 何不偷看一下我们的示例插件，它们展示了插件 API 的友好性。如果您有
@@ -153,7 +153,7 @@ endstone
 - 🚧: 任务正在进行中。我们正在执行！💪
 - ⏳: 下一个任务。激动人心的事情即将发生！🌠
 
-## 🙌 贡献代码 [🔝]（#-目录-）
+## 🙌 贡献代码 [🔝](#-目录)
 
 我们热烈欢迎大家为 Endstone 项目献计献策！如果您热衷于使用 Python 和 C# 来增强 Bedrock 专用
 服务器，并对如何改进 Endstone 有想法，您可以通过以下几种方式作出贡献：
@@ -168,6 +168,6 @@ endstone
 我们感谢您的代码贡献。如果您修复了一个错误或实现了一个新功能，请提交拉取请求！
 请确保您的代码遵循我们的编码标准，并尽可能包含测试。
 
-## 🎫 License [🔝](#-目录-)
+## 🎫 License [🔝](#-目录)
 
 The Endstone project is licensed under the [Apache-2.0 license](LICENSE).

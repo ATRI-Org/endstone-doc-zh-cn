@@ -8,7 +8,7 @@
 <h3 align="center">Endstone</h3>
 
 <p align="center">
-   使用 Python 和 C++ 等编程语言为基岩版专用服务器编写插件？没问题！
+   使用 Python 和 C++ 等编程语言为BDS编写插件？没问题！
 </p>
 
 [![Windows](https://github.com/EndstoneMC/endstone/actions/workflows/windows.yml/badge.svg)](https://github.com/EndstoneMC/endstone/actions/workflows/windows.yml)
@@ -35,23 +35,18 @@
 
 ## 📖 介绍 [🔝](#-目录)
 
-我们非常高兴地宣布 Endstone 项目的启动。Endstone 为 Bedrock 专用服务器提供插件 API，支持
-Python 和 C++ 语言。这使开发人员能够利用各种特性和功能增强 Bedrock 专用服务器。
+我们非常高兴地宣布 Endstone 项目的启动。Endstone 为 BDS提供插件 API，支持
+Python 和 C++ 语言。这使开发人员能够利用各种特性和功能增强BDS的功能。
 功能。
 
 ## 🎯 特征 [🔝](#-目录)
 
 - **跨平台**: 我们同时支持 Windows 和 Linux 平台,目前,我们是唯一一个原生支持这两个平台的 BDS 服务器软件,无需Wine.
-- **Feature-rich**: All up-to-date Minecraft features are at your fingertips! We make sure to keep Endstone aligned with
-  the latest game updates.
-- **Hassle-free**: Ready to use right out of the box. Start the Endstone server with just one line of command. No extra
-  tools required.
-- **High-level API**: We provide a high-level friendly API akin to Bukkit plugin developers. Save yourself the hassle of
-  dealing with the dot-and-cross of the low-level system API and hooks, we've done the difficult part for you!
-- **Starter-friendly**: No C++ knowledge? No problem! Craft your plugins using Python, your favourite.
-- **Performance-in-mind**: For the performance savants, you can, of course, write (or rewrite) your plugins in C++ to
-  squeeze out
-  every bit of performance.
+- **功能丰富**: 所有最新的 Minecraft 功能触手可及！基于BDS，Endstone 能够最快的支持最新的游戏更新。
+- **开箱即用**: 只需键盘和手(也许还要脑子🧠,雾，使用一行命令即可启动 Endstone 服务器。不需要下载额外的工具。
+- **插件 API**: 我们提供类似于 Nukkit / Bukkit / Spigot 的插件 API，避免繁琐的系统 API 和Hook！如果您有编写相关插件的经验，一定可以快速上手。
+- **入门友好**: 没有 C++ 知识？没问题！您可以使用TIOBE排行榜第一的热门语言 Python 编写插件
+- **性能优先**: 您也可以使用 C++ 编写插件，以获取最高的性能
 
 ## 🛠️ 开始 [🔝](#-目录)
 
@@ -64,7 +59,7 @@ Python 和 C++ 语言。这使开发人员能够利用各种特性和功能增�
 
 还请确保您的系统已安装**Python 3.9 或更高版本**。
 
-有几种安装 Endstone 的方法：
+有其他几种安装 Endstone 的方法：
 
 ### 🐍 PyPi
 
